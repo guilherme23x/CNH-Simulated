@@ -1,0 +1,7 @@
+{
+  "theme": "light",
+  "font_family": "SF Pro Text",
+  "font_size": 10,
+  "questions_per_round": 5,
+  "gemini_model": "gemini-flash-lite-latest"
+}

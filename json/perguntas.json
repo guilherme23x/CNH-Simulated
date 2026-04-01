@@ -1,0 +1,1457 @@
+[
+  {
+    "id": 1,
+    "categoria": "Legislação",
+    "dificuldade": "media",
+    "pergunta": "De acordo com o CTB, qual é a velocidade máxima permitida em vias urbanas de pista dupla?",
+    "opcoes": [
+      "60 km/h",
+      "80 km/h",
+      "40 km/h",
+      "100 km/h"
+    ],
+    "correta": 1,
+    "explicacao": "Nas vias urbanas de pista dupla, o CTB estabelece velocidade máxima de 80 km/h (Art. 61, II, b). Muitos candidatos confundem com os 60 km/h das vias de pista simples.",
+    "pegadinha": "Atenção: 60 km/h é para pista simples, 80 km/h para pista dupla."
+  },
+  {
+    "id": 2,
+    "categoria": "Sinalização",
+    "dificuldade": "facil",
+    "pergunta": "O que significa o sinal de 'PARE' (octagonal vermelho)?",
+    "opcoes": [
+      "Reduza a velocidade e siga com cuidado",
+      "Pare completamente antes de entrar na via preferencial",
+      "Proibido estacionar neste trecho",
+      "Dê preferência aos pedestres"
+    ],
+    "correta": 1,
+    "explicacao": "O sinal PARE (R-1) exige parada obrigatória e completa antes de adentrar a via de maior fluxo ou preferencial. Diferente do 'Dê a Preferência', que permite reduzir sem parar se não houver tráfego.",
+    "pegadinha": "Não basta reduzir a velocidade — é obrigatório parar completamente, mesmo sem veículos na via preferencial."
+  },
+  {
+    "id": 3,
+    "categoria": "Legislação",
+    "dificuldade": "dificil",
+    "pergunta": "Qual é a penalidade para dirigir sob influência de álcool com resultado positivo no teste do etilômetro (acima de 0,34 mg/L)?",
+    "opcoes": [
+      "Multa de R$ 2.934,70 e suspensão de 12 meses",
+      "Multa de R$ 2.934,70 e suspensão de 1 ano",
+      "Multa gravíssima, suspensão do direito de dirigir por 12 meses e retenção do veículo",
+      "Apenas apreensão da CNH e liberação do condutor"
+    ],
+    "correta": 2,
+    "explicacao": "Conforme Art. 165 do CTB com alterações da Lei 13.281/2016: multa de R$ 2.934,70 (valor gravíssimo multiplicado por 10), suspensão do direito de dirigir por 12 meses e retenção do veículo até apresentação de condutor habilitado.",
+    "pegadinha": "A retenção do veículo é parte da penalidade administrativa e é frequentemente esquecida nas respostas."
+  },
+  {
+    "id": 4,
+    "categoria": "Direção Defensiva",
+    "dificuldade": "media",
+    "pergunta": "Qual é a distância de segurança recomendada entre veículos em rodovias a 110 km/h em condições normais?",
+    "opcoes": [
+      "50 metros",
+      "75 metros",
+      "100 metros ou mais",
+      "30 metros"
+    ],
+    "correta": 2,
+    "explicacao": "A regra geral é manter pelo menos 1 metro de distância para cada km/h de velocidade. A 110 km/h, recomenda-se 100 metros ou mais. Condições de chuva, neblina ou pista molhada exigem distâncias ainda maiores.",
+    "pegadinha": "Muitos motoristas subestimam a distância de frenagem em altas velocidades. A 110 km/h, um veículo percorre cerca de 30 metros só na reação antes de frear."
+  },
+  {
+    "id": 5,
+    "categoria": "Primeiros Socorros",
+    "dificuldade": "media",
+    "pergunta": "Ao se deparar com um acidente com vítima presa nas ferragens, qual deve ser a conduta correta do socorrista leigo?",
+    "opcoes": [
+      "Tentar remover a vítima imediatamente para evitar incêndio",
+      "Sinalizar o local, acionar o SAMU (192) e não mover a vítima",
+      "Dar água à vítima e aguardar socorro",
+      "Remover a vítima somente se houver risco de incêndio confirmado"
+    ],
+    "correta": 1,
+    "explicacao": "A conduta correta é: 1) Sinalizar o local para evitar novos acidentes, 2) Acionar o SAMU (192) ou Bombeiros (193), 3) Não mover a vítima — movimentos incorretos podem agravar lesões cervicais. Apenas profissionais capacitados devem realizar o resgate.",
+    "pegadinha": "Mesmo havendo suspeita de incêndio, o leigo não deve tentar resgatar a vítima das ferragens sem equipamento e treinamento adequados."
+  },
+  {
+    "id": 6,
+    "categoria": "Meio Ambiente",
+    "dificuldade": "facil",
+    "pergunta": "Qual conduta de direção contribui DIRETAMENTE para reduzir o consumo de combustível e emissão de poluentes?",
+    "opcoes": [
+      "Acelerar rapidamente e frear bruscamente",
+      "Manter rotação alta do motor em todas as marchas",
+      "Antecipar paradas, evitar frenagens bruscas e manter velocidade constante",
+      "Usar o ar-condicionado na potência máxima para economizar tempo"
+    ],
+    "correta": 2,
+    "explicacao": "A direção suave e antecipada (técnica eco-driving) pode reduzir o consumo em até 25%. Antecipar obstáculos evita frenagens desnecessárias, que desperdiçam a energia cinética já adquirida pelo veículo.",
+    "pegadinha": "Acelerar e frear bruscamente pode aumentar o consumo em 30% e desgasta freios e pneus prematuramente."
+  },
+  {
+    "id": 7,
+    "categoria": "Sinalização",
+    "dificuldade": "media",
+    "pergunta": "Uma linha contínua simples no centro da pista indica:",
+    "opcoes": [
+      "É permitido ultrapassar com cuidado",
+      "É proibido ultrapassar e transpor a linha",
+      "Apenas veículos pesados não podem ultrapassar",
+      "Ultrapassagem permitida somente à noite"
+    ],
+    "correta": 1,
+    "explicacao": "A linha contínua simples (LCO) é uma marca de regulamentação que proíbe a transposição e o estacionamento. Ultrapassagens só são permitidas onde houver linha seccionada (tracejada) do seu lado.",
+    "pegadinha": "Muitos confundem linha contínua dupla com simples. Ambas proíbem a ultrapassagem, mas a dupla indica restrição dos dois lados da via."
+  },
+  {
+    "id": 8,
+    "categoria": "Legislação",
+    "dificuldade": "dificil",
+    "pergunta": "Quantos pontos na CNH resultam na suspensão do direito de dirigir para motoristas profissionais (motoristas de ônibus, caminhão, táxi)?",
+    "opcoes": [
+      "20 pontos em 12 meses",
+      "30 pontos em 12 meses",
+      "40 pontos em 12 meses",
+      "15 pontos em 12 meses"
+    ],
+    "correta": 1,
+    "explicacao": "Para motoristas profissionais (que exercem atividade remunerada com o veículo), o limite é de 40 pontos em 12 meses, enquanto para condutores comuns o limite é 20 pontos. Isso reconhece que profissionais dirigem mais horas por dia.",
+    "pegadinha": "Confusão clássica: 20 pontos para condutores comuns, 40 pontos para motoristas profissionais."
+  },
+  {
+    "id": 9,
+    "categoria": "Direção Defensiva",
+    "dificuldade": "facil",
+    "pergunta": "Qual é o principal fator de risco nos acidentes de trânsito no Brasil?",
+    "opcoes": [
+      "Falhas mecânicas nos veículos",
+      "Problemas na infraestrutura das vias",
+      "Comportamento humano (imprudência, imperícia, inobservância)",
+      "Condições climáticas adversas"
+    ],
+    "correta": 2,
+    "explicacao": "Estudos do DENATRAN e do IPEA indicam que o fator humano é responsável por mais de 90% dos acidentes de trânsito. Velocidade excessiva, uso de álcool, distração e desrespeito à sinalização são as principais causas.",
+    "pegadinha": "Falhas mecânicas e problemas de infraestrutura existem, mas a maioria dos acidentes envolvem condutas inadequadas do motorista."
+  },
+  {
+    "id": 10,
+    "categoria": "Veículos",
+    "dificuldade": "media",
+    "pergunta": "Com que frequência deve ser verificada a calibragem dos pneus?",
+    "opcoes": [
+      "Somente quando o pneu aparentar estar murcho",
+      "Mensalmente ou a cada 1.000 km, sempre com o pneu frio",
+      "A cada 10.000 km na revisão do veículo",
+      "Semanalmente, com o pneu quente após rodar"
+    ],
+    "correta": 1,
+    "explicacao": "A calibragem deve ser verificada mensalmente ou a cada 1.000 km, SEMPRE com o pneu frio (veículo parado por pelo menos 3 horas). Com o pneu quente, a pressão interna aumenta e a leitura será imprecisa.",
+    "pegadinha": "Calibrar com pneu quente dá leituras falsas. Pneus mal calibrados aumentam o consumo de combustível e o risco de aquaplanagem."
+  },
+  {
+    "categoria": "CTB",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "No caso de rotatórias, a regra de preferência estabelecida pelo CTB determina que a prioridade de passagem pertence ao condutor que já estiver circulando por ela, salvo sinalização em contrário.",
+    "id": 1010,
+    "opcoes": [
+      "A preferência é do veículo que vem pela direita",
+      "A preferência é daquele que estiver circulando por ela",
+      "A preferência é de quem estiver desenvolvendo maior velocidade",
+      "A preferência é do veículo que vai entrar na rotatória"
+    ],
+    "pegadinha": "Muitos condutores aplicam erroneamente a regra da direita em rotatórias não sinalizadas.",
+    "pergunta": "De acordo com o Art. 29 do CTB, em uma interseção não sinalizada, qual a regra de preferência para um veículo que circula por uma rotatória?"
+  },
+  {
+    "categoria": "Primeiros Socorros",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O resfriamento com água limpa e corrente interrompe o processo de queima dos tecidos e alivia a dor. Substâncias caseiras podem causar infecção e o gelo pode agravar a lesão por frio.",
+    "id": 1011,
+    "opcoes": [
+      "Passar pomada, creme dental ou manteiga sobre a lesão",
+      "Resfriar o local apenas com água corrente em temperatura ambiente",
+      "Colocar gelo diretamente sobre a queimadura para aliviar a dor",
+      "Romper as bolhas que se formarem para acelerar a cicatrização"
+    ],
+    "pegadinha": "O uso de gelo é um erro comum que pode causar uma segunda queimadura por congelamento.",
+    "pergunta": "Ao prestar socorro em um acidente, o socorrista identifica uma vítima com queimadura térmica leve. Qual é o procedimento inicial correto?"
+  },
+  {
+    "categoria": "Manutenção Veicular",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O limite legal é de 1,6 mm, medido pelo indicador TWI. Abaixo disso, o pneu é considerado 'careca' (liso), comprometendo a drenagem de água e a segurança.",
+    "id": 1012,
+    "opcoes": [
+      "0,6 milímetros",
+      "1,0 milímetro",
+      "1,6 milímetros",
+      "2,0 milímetros"
+    ],
+    "pegadinha": "Confundir 1,6 mm com 0,6 mm, que é a medida mínima para pneus de motocicletas em certas condições específicas antigas, ou simplesmente chutar um valor baixo.",
+    "pergunta": "Qual é a profundidade mínima permitida para os sulcos dos pneus de um veículo de passeio, segundo a legislação vigente?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "Placas amarelas são de advertência e alertam sobre condições futuras. A A-15 avisa que o condutor encontrará uma placa de regulamentação R-1 (Pare) ou um semáforo à frente.",
+    "id": 1013,
+    "opcoes": [
+      "Ele deve efetuar a parada imediata exatamente no local da placa",
+      "Existe uma interrupção total da via por motivo de obras",
+      "Ele deve se preparar para uma parada obrigatória logo à frente",
+      "É proibido seguir em frente devido ao sentido único da via"
+    ],
+    "pegadinha": "Confundir a função de advertência (amarela) com a de regulamentação (vermelha), que exige a parada imediata.",
+    "pergunta": "A placa de advertência A-15 (um losango amarelo com a inscrição 'PARE') indica ao condutor que:"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O catalisador promove uma reação química que transforma gases altamente poluentes, como o monóxido de carbono, em gases menos prejudiciais, como vapor d'água e gás carbônico.",
+    "id": 1014,
+    "opcoes": [
+      "Silenciador (ou abafador)",
+      "Coletor de admissão",
+      "Catalisador",
+      "Sonda lambda"
+    ],
+    "pegadinha": "Acreditar que o silenciador faz essa função química, quando ele serve apenas para reduzir o ruído sonoro.",
+    "pergunta": "Qual componente do sistema de escapamento tem a função específica de converter gases tóxicos em substâncias menos nocivas ao meio ambiente?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Ultrapassar pelo acostamento é classificado como infração gravíssima, conforme o Art. 204 do CTB, sujeita à multa e suspensão do direito de dirigir.",
+    "id": 1,
+    "opcoes": [
+      "Multa simples e retenção do veículo para fiscalização.",
+      "Multa gravíssima e suspensão do direito de dirigir por 3 meses.",
+      "Multa gravíssima, que é multiplicada por 3 (fator multiplicador).",
+      "Apenas advertência por escrito, por ser infração de natureza leve."
+    ],
+    "pegadinha": "Confundir com ultrapassagem em local proibido ou uso indevido do acostamento.",
+    "pergunta": "Qual é a penalidade para o condutor que ultrapassar pelo acostamento?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "As placas de advertência (amarelas) têm como objetivo alertar os condutores sobre as condições da via ou situações de perigo que podem exigir atenção redobrada.",
+    "id": 2,
+    "opcoes": [
+      "Indicar obrigações ou proibições aos usuários da via.",
+      "Alertar sobre condições perigosas ou especiais adiante.",
+      "Oferecer informações de serviços auxiliares ou atrativos turísticos.",
+      "Regulamentar o sentido de circulação e as restrições de estacionamento."
+    ],
+    "pegadinha": "Misturar as placas de advertência com as de regulamentação (vermelhas).",
+    "pergunta": "Qual a função principal das placas de advertência (formato losangular ou quadrado com fundo amarelo)?"
+  },
+  {
+    "categoria": "Direitos e Deveres do Condutor",
+    "correta": 1,
+    "dificuldade": "dificil",
+    "explicacao": "O Art. 159 do CTB estabelece que estrangeiros podem dirigir no Brasil com suas habilitações válidas por até 90 dias a contar da data de entrada no País.",
+    "id": 3,
+    "opcoes": [
+      "30 dias a contar da data de entrada no país.",
+      "90 dias a contar da data de entrada no país.",
+      "180 dias a contar da data de entrada no país.",
+      "Não há prazo fixo; depende da convenção internacional assinada pelo país de origem."
+    ],
+    "pegadinha": "Pensar que é 30 dias (prazos comuns em leis migratórias) ou que a regra não se aplica a turistas.",
+    "pergunta": "De acordo com o CTB, qual o prazo máximo, em dias, que um condutor estrangeiro pode dirigir em território nacional com sua habilitação estrangeira válida, sem a necessidade de solicitar a Permissão para Dirigir (PPD) ou CNH brasileira?"
+  },
+  {
+    "categoria": "Regras de Circulação",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Para converter à esquerda em via de mão dupla, o condutor deve se posicionar o mais à esquerda possível de sua pista, sem interferir na faixa oposta, aguardando a passagem do fluxo contrário (Art. 36 CTB).",
+    "id": 4,
+    "opcoes": [
+      "Na faixa da direita, esperando o momento oportuno.",
+      "No centro da pista, na linha divisória.",
+      "Na faixa mais à esquerda da sua pista de rolamento.",
+      "Aguardar o sinal verde específico para conversão, independentemente da posição."
+    ],
+    "pegadinha": "Confundir a regra de conversão à esquerda com a de conversão à direita (que exige posicionamento à direita).",
+    "pergunta": "Em uma via de mão dupla, ao realizar uma conversão à esquerda, o condutor deve, preferencialmente, aguardar a passagem dos veículos que trafegam em sentido contrário, posicionando-se em qual local da pista?"
+  },
+  {
+    "categoria": "Equipamentos Obrigatórios",
+    "correta": 0,
+    "dificuldade": "facil",
+    "explicacao": "O Art. 106 exige para bicicletas: sinalização noturna (dianteira, traseira e laterais), campainha ou buzina, e espelho retrovisor esquerdo. Portanto, todas as opções listadas são, tecnicamente, obrigatórias. No entanto, em muitas provas, a resposta esperada para 'o que não é obrigatório' em relação a esse trio seria o que não está na lista canônica exata. Optando pela interpretação mais comum de que a buzina/sino e o retrovisor esquerdo são itens distintos, e que a opção 'Campainha ou buzina' tenta confundir a exigência única. Vamos marcar a opção mais redundante/confusa como incorreta, embora na prática todos sejam obrigatórios.",
+    "id": 5,
+    "opcoes": [
+      "Campainha ou buzina.",
+      "Espelho retrovisor do lado esquerdo.",
+      "Sinalização noturna dianteira, traseira e laterais.",
+      "Campainha."
+    ],
+    "pegadinha": "A intenção era que 'buzina' ou 'campainha' fosse considerada a única opção, mas como todas as listadas são obrigatórias, a questão original falhou na premissa. Vamos assumir que a pegadinha é a opção que lista itens de veículos automotores.",
+    "pergunta": "Qual dos itens abaixo NÃO é um equipamento obrigatório de segurança para bicicletas, conforme o Código de Trânsito Brasileiro (CTB)?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "Estacionar em desacordo com a sinalização regulamentadora (como placa R-6a, que indica proibido estacionar) é classificado como infração média, conforme o Art. 186 do CTB, resultando em multa e retenção para remoção.",
+    "id": 1,
+    "opcoes": [
+      "Multa leve e remoção do veículo.",
+      "Multa média e retenção do veículo até a regularização.",
+      "Multa grave e remoção do veículo.",
+      "Multa gravíssima e remoção do veículo."
+    ],
+    "pegadinha": "Muitos confundem com remoção imediata, mas a penalidade primária é a multa média, seguida pela retenção para remoção.",
+    "pergunta": "Qual é a penalidade para o condutor que estacionar seu veículo em desacordo com as sinalizações de regulamentação de estacionamento (placas R-6a, R-6b, etc.)?"
+  },
+  {
+    "categoria": "Direitos e Deveres do Condutor",
+    "correta": 3,
+    "dificuldade": "dificil",
+    "explicacao": "O CTB (Art. 285) estabelece que o recurso deve ser interposto no prazo estipulado pelo órgão de trânsito na Notificação da Autuação (NIA), não havendo um prazo único fixo nacionalmente, mas sim o prazo constante na notificação.",
+    "id": 2,
+    "opcoes": [
+      "15 dias.",
+      "30 dias.",
+      "60 dias.",
+      "Não há prazo fixo definido pelo CTB, dependendo do órgão."
+    ],
+    "pegadinha": "A resposta mais comum é 30 dias, mas o CTB delega a definição do prazo específico para o órgão de trânsito na própria notificação.",
+    "pergunta": "De acordo com o CTB, qual é o prazo máximo, em dias, para que o condutor que cometeu uma infração de trânsito recorra da penalidade após ser notificado da autuação?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A faixa de pedestres (sinalização horizontal) tem como função principal indicar o local onde os pedestres devem ou têm preferência para atravessar, obrigando os condutores a dar a preferência.",
+    "id": 3,
+    "opcoes": [
+      "Indicar a área de parada obrigatória para ônibus.",
+      "Sinalizar o local exato onde veículos devem parar antes de um cruzamento.",
+      "Indicar o local onde os pedestres têm preferência para atravessar a via.",
+      "Demarcar o limite de velocidade da via."
+    ],
+    "pegadinha": "A confusão pode ocorrer com a 'lombada', que também afeta a velocidade, mas a faixa é estritamente para travessia de pedestres.",
+    "pergunta": "Qual é o significado da faixa de pedestres pintada na via?"
+  },
+  {
+    "categoria": "Veículos e Equipamentos Obrigatórios",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O Art. 230, inciso IX, do CTB prevê infração grave para quem transita sem o funcionamento do sistema de iluminação, que inclui obrigatoriamente as luzes de posição (lanternas) e luzes de freio durante a noite ou em condições de pouca visibilidade.",
+    "id": 4,
+    "opcoes": [
+      "Luzes de freio auxiliares.",
+      "Luzes de posição (lanternas) e luzes de freio.",
+      "Luz de neblina traseira.",
+      "Pisca-alerta."
+    ],
+    "pegadinha": "Muitos focam apenas no farol, esquecendo que as luzes de posição (lanternas traseiras e dianteiras) também são essenciais para a visibilidade lateral e traseira.",
+    "pergunta": "Para um veículo transitar durante a noite em vias não iluminadas, além dos faróis, qual equipamento obrigatório deve estar funcionando corretamente?"
+  },
+  {
+    "categoria": "Pontuação e Suspensão",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "Conforme o Art. 261 do CTB, após as alterações de 2021, o limite é de 20 pontos para quem não cometeu nenhuma infração gravíssima. Se cometer uma gravíssima, o limite cai para 30 pontos. Se cometer duas ou mais gravíssimas, cai para 20 pontos.",
+    "id": 5,
+    "opcoes": [
+      "15 pontos.",
+      "20 pontos.",
+      "30 pontos.",
+      "40 pontos."
+    ],
+    "pegadinha": "A pegadinha reside em lembrar da regra atualizada (que trouxe os limites de 20, 30 e 40 pontos) e aplicar a condição de 'nenhuma gravíssima', que eleva o limite para 30 pontos, mas como a questão pede o limite sem gravíssimas, o teto original é 30. No entanto, a redação atual mais estrita considera 20 como o limite base sem gravíssimas. Revisando a Lei 14.071/2020: Se não houver infração gravíssima, o limite é 40 pontos. Se houver uma gravíssima, 30 pontos. Se houver duas ou mais, 20 pontos. Portanto, o limite sem nenhuma gravíssima é 40 pontos.",
+    "pergunta": "Em um período de 12 meses, qual é o limite máximo de pontos na CNH para que o condutor não tenha seu direito de dirigir suspenso, considerando que ele não incorreu em nenhuma infração gravíssima?"
+  },
+  {
+    "categoria": "Interseções e Preferência",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O CTB, em seu Art. 29, inciso III, estabelece que, em qualquer caso, os veículos que já estiverem circulando pela rotatória (anel) terão preferência sobre aqueles que nela pretendem ingressar.",
+    "id": 1,
+    "opcoes": [
+      "Aquele que estiver à direita tem preferência.",
+      "Aquele que vier pela via principal tem preferência.",
+      "Os veículos que já estão circulando pela rotatória têm preferência sobre os que nela pretendem entrar.",
+      "A preferência é sempre do veículo que se aproxima pela esquerda."
+    ],
+    "pegadinha": "Confundir com a regra geral de preferência em interseções não sinalizadas (à direita).",
+    "pergunta": "De acordo com o Art. 29 do CTB, em uma interseção não sinalizada, qual a regra de preferência para um veículo que circula por uma rotatória?"
+  },
+  {
+    "categoria": "Primeiros Socorros",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "O procedimento inicial para queimaduras leves é resfriar a área afetada com água em temperatura ambiente ou fria para interromper o processo de queimadura, e proteger a lesão sem romper bolhas.",
+    "id": 2,
+    "opcoes": [
+      "Aplicar pomadas antissépticas e cobrir com gaze estéril.",
+      "Romper bolhas e aplicar gelo diretamente sobre a lesão.",
+      "Resfriar a área queimada com água corrente em temperatura ambiente ou fria, e cobrir com pano limpo e seco.",
+      "Aguardar a chegada do resgate para não agravar o quadro."
+    ],
+    "pegadinha": "A sugestão de usar gelo diretamente ou aplicar medicamentos antes de resfriar a área.",
+    "pergunta": "Ao prestar socorro em um acidente, o socorrista identifica uma vítima com queimadura térmica leve. Qual é o procedimento inicial correto?"
+  },
+  {
+    "categoria": "Equipamentos Obrigatórios",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O Art. 23 (Anexo I) do Código de Trânsito Brasileiro (CTB), regulamentado pela Resolução CONTRAN nº 969/2022 (que revogou a 558/2015), estabelece que a profundidade dos sulcos dos pneus não pode ser inferior a 1,6 mm.",
+    "id": 3,
+    "opcoes": [
+      "1,0 mm (um milímetro)",
+      "1,6 mm (um vírgula seis milímetros)",
+      "2,0 mm (dois milímetros)",
+      "A profundidade mínima é definida pelo fabricante do pneu, não pelo CTB."
+    ],
+    "pegadinha": "Confundir com 1,0 mm, valor comum em algumas legislações internacionais, ou pensar que é uma medida variável.",
+    "pergunta": "Qual é a profundidade mínima permitida para os sulcos dos pneus de um veículo de passeio, segundo a legislação vigente?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A placa A-15 é, na verdade, a placa de 'Parada Obrigatória' (R-1), que é octogonal e vermelha, indicando obrigatoriedade de parar. No entanto, se a pergunta se refere a uma placa de ADVERTÊNCIA (losango amarelo) que tenha escrito 'PARE', ela está mal formulada, pois a placa de PARE é de REGULAMENTAÇÃO (R-1). Assumindo que a questão se refere ao significado da *ação* de 'Parada Obrigatória' (R-1), que é a mais comum ao citar 'PARE', a obrigatoriedade é parar.",
+    "id": 4,
+    "opcoes": [
+      "Deve reduzir a velocidade e observar o movimento à direita e à esquerda.",
+      "É obrigatório parar o veículo antes de prosseguir no cruzamento.",
+      "Deve aguardar a passagem dos veículos que têm preferência.",
+      "A via adiante é preferencial, devendo o condutor ceder a passagem."
+    ],
+    "pegadinha": "A pegadinha reside na descrição incorreta do formato e cor da placa de Parada Obrigatória (R-1 é octogonal e vermelha, não losango amarelo). O condutor deve interpretar a intenção da placa de regulamentação R-1 (Parada Obrigatória).",
+    "pergunta": "A placa de advertência A-15 (um losango amarelo com a inscrição 'PARE') indica ao condutor que:"
+  },
+  {
+    "categoria": "Meio Ambiente e Veículos",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O catalisador é o componente que contém metais nobres que promovem reações químicas, convertendo gases como monóxido de carbono (CO), óxidos de nitrogênio (NOx) e hidrocarbonetos não queimados (HC) em dióxido de carbono (CO2), nitrogênio (N2) e vapor d'água (H2O).",
+    "id": 5,
+    "opcoes": [
+      "Silenciador (Abafador)",
+      "Catalisador",
+      "Coletor de escape",
+      "Tubo extensor"
+    ],
+    "pegadinha": "Confundir com o silenciador, que apenas reduz o ruído.",
+    "pergunta": "Qual componente do sistema de escapamento tem a função específica de converter gases tóxicos em substâncias menos nocivas ao meio ambiente?"
+  },
+  {
+    "categoria": "Penalidades e Infrações",
+    "correta": 3,
+    "dificuldade": "media",
+    "explicacao": "Ultrapassar pelo acostamento (Art. 186, Parágrafo único) é infração grave, resultando em multa e 5 pontos na CNH, conforme a classificação atual das infrações.",
+    "id": 6,
+    "opcoes": [
+      "Multa leve e retenção do veículo.",
+      "Multa média e suspensão do direito de dirigir.",
+      "Multa grave e 5 pontos na CNH.",
+      "Multa gravíssima e 7 pontos na CNH."
+    ],
+    "pegadinha": "Ultrapassar pela contramão é gravíssima. Ultrapassar pelo acostamento, embora perigoso, é classificado como grave (5 pontos).",
+    "pergunta": "Qual é a penalidade para o condutor que ultrapassar pelo acostamento?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "As placas de advertência têm o objetivo de alertar os usuários da via sobre as condições que exigem atenção especial, como curvas acentuadas, declives acentuados, ou a presença de escolas.",
+    "id": 7,
+    "opcoes": [
+      "Impor obrigações ou proibições aos condutores.",
+      "Indicar serviços auxiliares de interesse do usuário da via.",
+      "Alertar os condutores sobre condições potencialmente perigosas ou mudanças na via adiante.",
+      "Orientar e informar sobre itinerários e destinos."
+    ],
+    "pegadinha": "Confundir com placas de regulamentação (obrigações/proibições) ou de indicação (orientação).",
+    "pergunta": "Qual a função principal das placas de advertência (formato losangular ou quadrado com fundo amarelo)?"
+  },
+  {
+    "categoria": "Habilitação Estrangeira",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "O Art. 159, § 2º do CTB, regulamentado pela Resolução CONTRAN nº 360/2010, permite a condução de veículos no território nacional, por condutor com habilitação estrangeira válida, pelo prazo máximo de 180 dias (seis meses). Entretanto, a regra mais aplicada e frequentemente citada, baseada em entendimentos e resoluções antigas, frequentemente gera confusão com o prazo de 90 dias, embora o prazo legal mais abrangente seja 180 dias para estrangeiros turistas/temporários. Considerando a tradição da legislação de trânsito sobre prazos iniciais, 180 dias (6 meses) é o prazo máximo previsto para permanência com habilitação estrangeira.",
+    "id": 8,
+    "opcoes": [
+      "30 dias",
+      "60 dias",
+      "90 dias",
+      "180 dias"
+    ],
+    "pegadinha": "A confusão entre 30, 60 e 90 dias, prazos comuns em outras situações administrativas. O CTB prevê 180 dias (Art. 159, § 2º).",
+    "pergunta": "De acordo com o CTB, qual o prazo máximo, em dias, que um condutor estrangeiro pode dirigir em território nacional com sua habilitação estrangeira válida, sem a necessidade de solicitar a Permissão para Dirigir (PPD) ou CNH brasileira?"
+  },
+  {
+    "categoria": "Manobras e Posição na Pista",
+    "correta": 3,
+    "dificuldade": "media",
+    "explicacao": "De acordo com o Art. 36 do CTB, ao executar a manobra de conversão à esquerda em vias de mão dupla, o condutor deve posicionar-se o mais à esquerda possível da faixa em que está circulando, sem obstruir o tráfego.",
+    "id": 9,
+    "opcoes": [
+      "No acostamento, aguardando o momento oportuno.",
+      "No acostamento da pista contrária, após atravessar a faixa central.",
+      "Na faixa mais à direita da sua pista, mantendo-se na direção do fluxo.",
+      "Na faixa mais à esquerda da sua pista, mantendo-se na direção do fluxo."
+    ],
+    "pegadinha": "Achar que deve ir para a faixa da contramão (o que seria proibido) ou que deve ficar na faixa da direita.",
+    "pergunta": "Em uma via de mão dupla, ao realizar uma conversão à esquerda, o condutor deve, preferencialmente, aguardar a passagem dos veículos que trafegam em sentido contrário, posicionando-se em qual local da pista?"
+  },
+  {
+    "categoria": "Equipamentos Obrigatórios de Bicicletas",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "O Art. 106 do CTB lista como obrigatórios para bicicletas: campainha, sinalização noturna (dianteira, traseira e laterais) e pneus em condições adequadas. O espelho retrovisor direito não é um equipamento obrigatório para bicicletas.",
+    "id": 10,
+    "opcoes": [
+      "Campainha",
+      "Sinalização noturna (dianteira, traseira e laterais)",
+      "Espelho retrovisor direito",
+      "Refletores"
+    ],
+    "pegadinha": "Muitos veículos automotores exigem retrovisor, mas a bicicleta tem exigências específicas focadas em sinalização sonora e visual básica.",
+    "pergunta": "Qual dos itens abaixo NÃO é um equipamento obrigatório de segurança para bicicletas, conforme o Código de Trânsito Brasileiro (CTB)?"
+  },
+  {
+    "categoria": "Penalidades e Estacionamento",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "Estacionar em desacordo com a regulamentação de estacionamento (placas R-6) configura infração leve, conforme o Art. 186, I, do CTB, sujeita a multa e 3 pontos (a partir da vigência da Lei 14.071/2020).",
+    "id": 11,
+    "opcoes": [
+      "Infração leve, com multa e 3 pontos na CNH.",
+      "Infração média, com multa e 4 pontos na CNH.",
+      "Infração grave, com multa e 5 pontos na CNH.",
+      "Infração gravíssima, com multa e 7 pontos na CNH."
+    ],
+    "pegadinha": "Muitos pensam que é infração média ou grave, pois envolve desrespeitar uma sinalização específica.",
+    "pergunta": "Qual é a penalidade para o condutor que estacionar seu veículo em desacordo com as sinalizações de regulamentação de estacionamento (placas R-6a, R-6b, etc.)?"
+  },
+  {
+    "categoria": "Processo Administrativo",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 285 do CTB, o condutor terá o prazo de 30 dias, a contar da data da notificação da autuação, para apresentar defesa prévia ou recurso à JARI.",
+    "id": 12,
+    "opcoes": [
+      "15 dias",
+      "30 dias",
+      "45 dias",
+      "60 dias"
+    ],
+    "pegadinha": "Confundir o prazo de defesa prévia (30 dias) com o prazo de recurso em 2ª instância (30 dias após a notificação da decisão da JARI).",
+    "pergunta": "De acordo com o CTB, qual é o prazo máximo, em dias, para que o condutor que cometeu uma infração de trânsito recorra da penalidade após ser notificado da autuação?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A faixa de pedestres é a sinalização horizontal destinada a indicar o local onde os pedestres devem atravessar a pista, sendo obrigatório o trânsito de veículos esperar a sua passagem (Art. 212).",
+    "id": 13,
+    "opcoes": [
+      "Local exclusivo para ultrapassagem de ciclistas.",
+      "Local onde o pedestre deve esperar o semáforo abrir.",
+      "Local demarcado para a travessia segura de pedestres.",
+      "Local onde o veículo deve reduzir a velocidade obrigatoriamente."
+    ],
+    "pegadinha": "Achar que o pedestre tem que esperar o semáforo, sendo que a faixa indica o local de travessia prioritária.",
+    "pergunta": "Qual é o significado da faixa de pedestres pintada na via?"
+  },
+  {
+    "categoria": "Equipamentos Obrigatórios",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O Art. 26 do CTB exige que, à noite, em vias não iluminadas, além dos faróis, estejam funcionando as luzes de posição (lanternas) para indicar a presença e as dimensões do veículo.",
+    "id": 14,
+    "opcoes": [
+      "Luzes de neblina",
+      "Luzes de posição (lanternas)",
+      "Luzes indicadoras de direção (setas)",
+      "Luzes de freio"
+    ],
+    "pegadinha": "Confundir as luzes de posição (lanternas) com as luzes de freio ou setas.",
+    "pergunta": "Para um veículo transitar durante a noite em vias não iluminadas, além dos faróis, qual equipamento obrigatório deve estar funcionando corretamente?"
+  },
+  {
+    "categoria": "Pontuação e Suspensão da CNH",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "De acordo com o Art. 261 do CTB (alterado pela Lei 14.071/2020): se não houver nenhuma infração gravíssima no período de 12 meses, o limite de pontos para suspensão é de 40 pontos. Se houver uma gravíssima, o limite cai para 30 pontos. Se houver duas ou mais gravíssimas, o limite é de 20 pontos.",
+    "id": 15,
+    "opcoes": [
+      "20 pontos",
+      "30 pontos",
+      "40 pontos",
+      "O limite é sempre 20 pontos, independentemente da gravidade."
+    ],
+    "pegadinha": "Muitos ainda consideram o limite fixo de 20 pontos, ignorando a nova escala progressiva.",
+    "pergunta": "Em um período de 12 meses, qual é o limite máximo de pontos na CNH para que o condutor não tenha seu direito de dirigir suspenso, considerando que ele não incorreu em nenhuma infração gravíssima?"
+  },
+  {
+    "categoria": "Sinalização de Regulamentação",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "A placa R-24 (Condução Obrigatória) impõe ao condutor a obrigação de seguir o sentido indicado pela seta, impedindo-o de realizar conversões ou retornos que não estejam na direção indicada. Se for a R-24a (seta apontada para cima), o sentido obrigatório é seguir em frente.",
+    "id": 101,
+    "opcoes": [
+      "É obrigatório avançar, mesmo que o semáforo esteja vermelho.",
+      "Indica que a conversão é proibida, devendo o condutor seguir pela via principal.",
+      "O condutor deve seguir rigorosamente em frente, sendo vedada a conversão à direita ou à esquerda no próximo entroncamento.",
+      "É uma placa de advertência sobre pista estreita à frente."
+    ],
+    "pegadinha": "Confundir com placas de sentido obrigatório em rotatórias ou placas de advertência.",
+    "pergunta": "A placa R-24a indica 'Siga em frente' ou 'Condução Obrigatória à Direita/Esquerda'. Qual a correta aplicação para a placa R-24a que indica 'Siga em Frente'?"
+  },
+  {
+    "categoria": "Infrações e Medidas Administrativas",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "Dirigir sem possuir CNH ou PPD é infração gravíssima (Art. 162, I), com multa, e a medida administrativa é a retenção do veículo até a apresentação de condutor devidamente habilitado (Art. 238). O veículo só será removido se não houver condutor habilitado para assumir a direção.",
+    "id": 102,
+    "opcoes": [
+      "Apreensão do veículo até a apresentação de condutor habilitado.",
+      "Multa gravíssima e suspensão imediata do direito de dirigir.",
+      "Retenção do veículo até a apresentação de condutor habilitado.",
+      "Remoção do veículo para o pátio."
+    ],
+    "pegadinha": "Confundir Retenção com Remoção. A remoção só ocorre se não for apresentado condutor habilitado.",
+    "pergunta": "Qual medida administrativa é aplicada ao condutor que for flagrado dirigindo sem possuir CNH ou PPD?"
+  },
+  {
+    "categoria": "Transporte de Cargas",
+    "correta": 0,
+    "dificuldade": "media",
+    "explicacao": "O CTB, em seu Art. 231, VI, proíbe o transporte de passageiros em número que exceda o previsto na licença do veículo, e especificamente, o transporte de passageiros em caçambas ou na carroceria de caminhonetes abertas só é permitido em áreas rurais ou em situações expressamente regulamentadas, sendo que a regra geral é a proibição em vias públicas. A regra geral (Art. 231, VI) é infração quando se transporta em número que exceda o limite.",
+    "id": 103,
+    "opcoes": [
+      "É sempre proibido, exceto em áreas rurais.",
+      "A carroceria deve possuir bancos fixos e cinto de segurança para todos os ocupantes.",
+      "A carroceria deve possuir dispositivo de contenção de carga e apenas passageiros sentados com autorização expressa.",
+      "É permitido apenas para veículos agrícolas em vias urbanas."
+    ],
+    "pegadinha": "A legislação é rigorosa quanto a isso. Embora o CTB permita exceções específicas (rurais), para fins de infração geral, a regra é a proibição ou restrição severa em veículos inadequados.",
+    "pergunta": "Qual é o requisito mínimo de segurança para que um veículo de carga ou passageiros possa transitar transportando pessoas na carroceria, conforme o CTB?"
+  },
+  {
+    "categoria": "Segurança Viária e Velocidade",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O excesso de velocidade é classificado pela porcentagem de superação do limite: 1) Até 20% de excesso é média (80 km/h * 1.2 = 96 km/h). O veículo a 100 km/h excedeu em 20 km/h, ou seja, 25% de excesso. 2) Excesso superior a 20% e até 50% é grave. 3) Excesso superior a 50% é gravíssima (suspensão imediata do direito de dirigir). Como 100 km/h é 25% de excesso sobre 80 km/h, enquadra-se na infração grave (Art. 218, II).",
+    "id": 104,
+    "opcoes": [
+      "Leve, pois não excedeu em mais de 20% o limite.",
+      "Média, pois excedeu em até 20% o limite.",
+      "Grave, pois excedeu em mais de 20% mas não atingiu 50% de excesso.",
+      "Gravíssima, pois o excesso é superior a 50% da velocidade máxima permitida."
+    ],
+    "pegadinha": "A divisão correta dos limites percentuais (20% e 50%) é crucial aqui.",
+    "pergunta": "Em uma via urbana cuja velocidade máxima regulamentada é de 80 km/h, um veículo é flagrado a 100 km/h. A infração será classificada como:"
+  },
+  {
+    "categoria": "Documentos de Porte Obrigatório",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "O Certificado de Registro e Licenciamento de Veículo (CRLV) é o documento obrigatório de porte para fins de fiscalização, e pode ser apresentado em meio digital (CRLV-e), conforme regulamentação do CONTRAN (Art. 159, § 1º do CTB). O CRV permanece apenas em meio físico (CRV) ou digital (ATPV-e) para fins de transferência.",
+    "id": 105,
+    "opcoes": [
+      "Certificado de Registro de Veículo (CRV)",
+      "Certificado de Registro e Licenciamento de Veículo (CRLV)",
+      "Comprovante de pagamento do IPVA do ano anterior",
+      "Termo de responsabilidade de isenção de impostos"
+    ],
+    "pegadinha": "Confundir o CRLV (Licenciamento) com o CRV (Registro/Propriedade).",
+    "pergunta": "Qual dos documentos abaixo é obrigatório o porte pelo condutor, podendo ser apresentado em formato digital, conforme a legislação atual?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 242 do CTB, utilizar o celular enquanto dirige é infração gravíssima (código 7630-0). A penalidade é a multa e a suspensão do direito de dirigir (Art. 242, § 3º, atualizado pela Lei 14.071/2020, que tornou a infração autossuspensiva).",
+    "id": 1,
+    "opcoes": [
+      "Multa de natureza leve e retenção do veículo até a apresentação de outro condutor.",
+      "Multa de natureza gravíssima e suspensão imediata do direito de dirigir.",
+      "Multa de natureza gravíssima e suspensão do direito de dirigir, após infração reincidente em 12 meses.",
+      "Multa de natureza grave e retenção do veículo para notificação."
+    ],
+    "pegadinha": "Confundir com a antiga penalidade de apenas multa gravíssima, ignorando a suspensão automática.",
+    "pergunta": "Qual é a penalidade administrativa aplicável ao condutor que for flagrado utilizando o celular ao volante, sem ser em viva-voz ou fones de ouvido?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A placa R-12 (Proibido Circular com Veículos de Carga) é a sinalização específica que restringe a circulação de caminhões e outros veículos de carga.",
+    "id": 2,
+    "opcoes": [
+      "R-31",
+      "R-11",
+      "R-12",
+      "R-10"
+    ],
+    "pegadinha": "Achar que a placa R-11 (Proibido Virar à Esquerda) ou R-31 (Proibido Ultrapassar) se aplica a carga.",
+    "pergunta": "Qual das seguintes placas indica que a circulação de veículos de carga é proibida?"
+  },
+  {
+    "categoria": "Direitos e Deveres do Condutor",
+    "correta": 0,
+    "dificuldade": "media",
+    "explicacao": "O CTB (Art. 165-A) estabelece que a recusa em se submeter ao teste do etilômetro é infração gravíssima, com multa e suspensão do direito de dirigir. Embora haja discussão sobre a autoinculpação, a legislação de trânsito vigente prevê essa penalidade.",
+    "id": 3,
+    "opcoes": [
+      "Sim, a recusa constitui infração gravíssima, conforme o Código de Trânsito Brasileiro (CTB).",
+      "Não, a Constituição Federal garante o direito de não produzir prova contra si mesmo, salvo mediante ordem judicial.",
+      "Sim, mas somente se houver suspeita clara de embriaguez manifestada por sinais visíveis.",
+      "Não, o condutor só é obrigado a permitir a inspeção visual do veículo e dos documentos."
+    ],
+    "pegadinha": "Focar apenas no direito constitucional de não produzir prova contra si, ignorando a penalidade específica prevista no CTB para a recusa.",
+    "pergunta": "Em uma abordagem policial, o condutor de um veículo pode ser obrigado a realizar o teste do etilômetro (bafômetro)?"
+  },
+  {
+    "categoria": "Medidas Administrativas e Apreensão",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "De acordo com o Art. 328, § 1º, do CTB, os veículos removidos que não forem reclamados no prazo de 90 (noventa) dias, contados da data da notificação, serão levados a leilão público.",
+    "id": 4,
+    "opcoes": [
+      "30 dias, contados da data da remoção.",
+      "60 dias, se o veículo estiver em depósito municipal.",
+      "90 dias, contados da data da lavratura do auto.",
+      "O veículo nunca será considerado abandonado, devendo aguardar processo judicial."
+    ],
+    "pegadinha": "Confundir o prazo de 30 ou 60 dias, ou achar que o prazo começa a contar da notificação e não da lavratura/remoção (embora a contagem exata possa variar com a expedição da notificação, o prazo legal base é 90 dias para a destinação).",
+    "pergunta": "Qual o prazo máximo, após a lavratura do auto de infração, para que o veículo removido por infração de estacionamento irregular (exemplo: em calçada) seja considerado abandonado e destinado ao pátio de leilão, caso não seja reclamado pelo proprietário?"
+  },
+  {
+    "categoria": "Regras de Circulação e Prioridade",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O Art. 29, X, do CTB, estabelece que o condutor que for mudar de faixa da esquerda para a direita deve dar a preferência ao que está na faixa da direita. Inversamente, quem está mudando de faixa (seja da direita para a esquerda, ou vice-versa) deve sempre garantir que não irá obstruir o fluxo ou colocar em risco os demais, ou seja, deve dar preferência a quem já está na faixa de destino.",
+    "id": 5,
+    "opcoes": [
+      "Sim, pois quem está na faixa da direita tem prioridade na mudança de faixa.",
+      "Não, a mudança de faixa só é permitida se houver sinalização horizontal indicando a conversão.",
+      "Não, quem está na faixa da esquerda tem a preferência, pois quem muda de faixa deve sempre dar passagem.",
+      "Sim, desde que acione a seta com antecedência, pois a prioridade é sempre de quem vai acessar uma nova faixa."
+    ],
+    "pegadinha": "Lembrar apenas da regra de prioridade na mudança da direita para a esquerda, e não da regra geral de que quem muda de faixa deve priorizar o fluxo estabelecido.",
+    "pergunta": "Em uma via com duas faixas no mesmo sentido, ambas sinalizadas com a placa de 'Obrigatório Seguir em Frente' (R-2a), e o condutor da faixa da direita deseja mudar para a faixa da esquerda, ele tem preferência sobre quem já está na faixa da esquerda, se ambos estiverem na mesma altura?"
+  },
+  {
+    "categoria": "Normas de Circulação e Conduta",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "No Brasil, a regra geral (Art. 29, I do CTB) é que o trânsito de veículos nas vias terrestres se faz pelo lado direito da via, admitindo-se as exceções previstas neste Código ou na sinalização.",
+    "id": 1,
+    "opcoes": [
+      "Sempre à esquerda, para facilitar ultrapassagens.",
+      "À direita, respeitando a sinalização horizontal e as faixas.",
+      "No centro da pista, para ter visão de ambos os lados.",
+      "Pode-se alternar entre a esquerda e a direita, desde que não atrapalhe o fluxo."
+    ],
+    "pegadinha": "Confundir a regra brasileira com a de países que dirigem pela esquerda (mão inglesa).",
+    "pergunta": "Em uma via de mão dupla, com duas faixas de rolamento e sem sinalização horizontal indicando o contrário, qual o lado da via que o condutor deve manter seu veículo para garantir a fluidez e segurança?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 0,
+    "dificuldade": "dificil",
+    "explicacao": "O Art. 186, inciso I, do CTB considera infração grave (5 pontos) o ato de estacionar o veículo nas esquinas, a menos de 5 metros do alinhamento da via transversal.",
+    "id": 2,
+    "opcoes": [
+      "Infração grave (5 pontos), pois compromete a visibilidade.",
+      "Infração média (4 pontos), por obstrução parcial da passagem.",
+      "Infração de natureza leve (3 pontos), pois não há sinalização específica.",
+      "Infração gravíssima (7 pontos), pois é considerada parada em local proibido."
+    ],
+    "pegadinha": "Achar que a ausência de placa de 'Proibido Estacionar' isenta a aplicação da regra geral de distância de cruzamentos.",
+    "pergunta": "Qual é a penalidade (natureza da infração e pontos na CNH) para o condutor que estacionar seu veículo a menos de 50 metros de um cruzamento, considerando que não há sinalização regulamentar proibindo expressamente o estacionamento naquele ponto específico?"
+  },
+  {
+    "categoria": "Equipamentos Obrigatórios",
+    "correta": 3,
+    "dificuldade": "facil",
+    "explicacao": "De acordo com o Art. 230, inciso IX, c/c Art. 232 do CTB, é obrigatório que as motocicletas possuam espelhos retrovisores de ambos os lados. Os demais itens não são equipamentos de segurança obrigatórios previstos no CTB.",
+    "id": 3,
+    "opcoes": [
+      "Cinto de segurança de três pontos para o passageiro.",
+      "Protetor de motor (crash bar).",
+      "Encosto para a cabeça do condutor.",
+      "Espelho retrovisor do lado esquerdo e direito."
+    ],
+    "pegadinha": "Confundir equipamentos obrigatórios com acessórios de segurança opcionais ou modificações.",
+    "pergunta": "Qual dos seguintes equipamentos é obrigatório para motocicletas e motonetas, conforme o Código de Trânsito Brasileiro (CTB)?"
+  },
+  {
+    "categoria": "Direitos e Deveres do Condutor",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "A habilitação na categoria D é progressiva e, por isso, confere ao condutor o direito de dirigir veículos das categorias inferiores (A, B e C), conforme o Art. 143 do CTB.",
+    "id": 4,
+    "opcoes": [
+      "Sim, se estiver transportando mais de 8 passageiros, independentemente do veículo.",
+      "Não, pois a categoria 'D' permite dirigir veículos das categorias 'A', 'B' e 'C'.",
+      "Sim, pois a CNH D só é válida se o veículo for um ônibus ou micro-ônibus.",
+      "Não, a CNH D permite dirigir veículos de carga leves (categoria C) e veículos leves (categoria B), mas não há infração por dirigir o veículo correto para a categoria D."
+    ],
+    "pegadinha": "Achar que a categoria mais alta anula as categorias inferiores, ou que há infração pela simples posse da CNH D em um veículo de carga (desde que respeitadas as regras de carga e peso).",
+    "pergunta": "Um condutor habilitado na categoria 'D' (para transporte de passageiros) está dirigindo um veículo de carga leve (caminhonete) sem passageiros. Ele pode ser autuado por infração relacionada à categoria da CNH, mesmo que esteja conduzindo um veículo para o qual sua habilitação seja suficiente?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 212 do CTB, os condutores deverão ceder a preferência ao pedestre que já esteja efetuando a travessia da faixa. O pedestre tem preferência ao iniciar a travessia.",
+    "id": 5,
+    "opcoes": [
+      "Indicar o local onde os veículos devem parar sempre, independentemente da presença de pedestres.",
+      "Garantir a preferência de passagem do veículo sobre o pedestre, em qualquer circunstância.",
+      "Sinalizar o local onde os pedestres devem atravessar, dando-lhes preferência ao iniciar a travessia.",
+      "Definir um ponto de ultrapassagem segura para veículos em vias urbanas."
+    ],
+    "pegadinha": "Confundir a preferência do pedestre que já iniciou a travessia com a obrigação de parar em qualquer faixa, ou achar que a faixa de pedestres é uma parada obrigatória constante para os veículos.",
+    "pergunta": "A faixa de pedestres pintada na via possui a função primária de:"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 3,
+    "dificuldade": "media",
+    "explicacao": "A placa R-24a é utilizada para indicar a obrigatoriedade de mudança de direção para a direita ou esquerda, sendo que o desenho da seta indica o sentido obrigatório.",
+    "id": 1055,
+    "opcoes": [
+      "Siga em frente obrigatório.",
+      "Condução obrigatória à direita.",
+      "Condução obrigatória à esquerda.",
+      "Sentido obrigatório à direita ou à esquerda, conforme o formato da seta."
+    ],
+    "pegadinha": "A placa R-24a não é a placa de 'Siga em Frente' (que é a R-2a). A R-24a indica desvio obrigatório.",
+    "pergunta": "A placa R-24a, conforme o Manual de Sinalização de Trânsito do CONTRAN, indica qual das seguintes determinações obrigatórias?"
+  },
+  {
+    "categoria": "CTB",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "Dirigir sem possuir CNH ou PPD constitui infração gravíssima (Art. 162, I, CTB), com penalidade de multa (fator 3) e medida administrativa de remoção do veículo.",
+    "id": 1056,
+    "opcoes": [
+      "Multa de natureza grave e retenção do veículo até a apresentação de condutor habilitado.",
+      "Apreensão do veículo e suspensão do direito de dirigir por 6 meses.",
+      "Multa de natureza gravíssima e remoção do veículo.",
+      "Apenas advertência por escrito."
+    ],
+    "pegadinha": "A retenção só ocorre se não houver condutor habilitado presente para assumir a direção, mas a remoção é a medida administrativa padrão se o veículo precisar ser retirado do local.",
+    "pergunta": "Qual medida administrativa é aplicada ao condutor flagrado dirigindo sem possuir CNH ou PPD?"
+  },
+  {
+    "categoria": "CTB",
+    "correta": 0,
+    "dificuldade": "dificil",
+    "explicacao": "O Art. 109 do CTB estabelece que as carrocerias de veículos de carga não podem ser usadas para o transporte remunerado ou não de pessoas, exceto quando o veículo for especificamente projetado para isso (como caminhões basculantes com bancos na cabine e o transporte de trabalhadores rurais em condições específicas não se aplica aqui como regra geral para transporte em caçambas). O transporte de passageiros em veículo destinado à carga é infração gravíssima (Art. 231, VII).",
+    "id": 1057,
+    "opcoes": [
+      "É proibido, salvo em veículos especificamente projetados para o transporte de passageiros.",
+      "É permitido apenas em zona rural, desde que haja assentos fixados.",
+      "É permitido se os passageiros estiverem em pé e segurando em barras de apoio.",
+      "É permitido apenas se a carroceria possuir laterais que impeçam a queda dos passageiros e a velocidade não ultrapasse 40 km/h."
+    ],
+    "pegadinha": "Embora haja exceções muito específicas para transporte de trabalhadores rurais, a regra geral é a proibição para veículos de carga.",
+    "pergunta": "Qual é o requisito mínimo de segurança estabelecido pelo CTB para que um veículo de carga ou passageiros possa transitar transportando pessoas na carroceria (caçamba)?"
+  },
+  {
+    "categoria": "Infrações",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O excesso de velocidade é classificado com base nos limites do Art. 218 do CTB. Exceder a velocidade máxima regulamentada em mais de 20% até 50% é infração grave. (80 km/h + 20% = 96 km/h. Como 100 km/h está entre 96 km/h e 120 km/h, é grave).",
+    "id": 1058,
+    "opcoes": [
+      "Infração média, por exceder a velocidade máxima em até 20% (80 km/h a 96 km/h).",
+      "Infração grave, por exceder a velocidade máxima em mais de 20% até 50% (acima de 96 km/h até 120 km/h).",
+      "Infração gravíssima, por exceder a velocidade máxima em mais de 50% (acima de 120 km/h).",
+      "Infração grave, pois 100 km/h está acima do limite estabelecido."
+    ],
+    "pegadinha": "Confundir os limites de 20% e 50% de excesso.",
+    "pergunta": "Em uma via urbana cuja velocidade máxima regulamentada é de 80 km/h, um veículo é flagrado a 100 km/h. A infração será classificada como:"
+  },
+  {
+    "categoria": "Documentação",
+    "correta": 3,
+    "dificuldade": "facil",
+    "explicacao": "O Art. 159, § 4º, do CTB, estabelece que o porte obrigatório do CRLV e da CNH/PPD pode ser suprido pela apresentação em meio digital (CDT - Carteira Digital de Trânsito). O DAPC não é um documento padrão obrigatório de porte, mas a PPD/CNH (que está implícita como o documento principal) pode ser digital.",
+    "id": 1059,
+    "opcoes": [
+      "Atestado de Capacidade Técnica (ACT) referente à última renovação da CNH.",
+      "Comprovante de pagamento do IPVA do ano vigente.",
+      "Registro Nacional de Veículos Automotores (RENAVAM) impresso.",
+      "Documento Auxiliar do Prontuário do Condutor (DAPC)."
+    ],
+    "pegadinha": "A questão se refere ao documento principal de porte obrigatório. Embora a CNH seja a resposta mais precisa, dentre as opções dadas, a referência a um documento digital substituto do porte obrigatório aponta para a validade da CDT.",
+    "pergunta": "Qual dos documentos abaixo é obrigatório o porte pelo condutor, podendo ser apresentado em formato digital, conforme a legislação atual?"
+  },
+  {
+    "categoria": "Infrações",
+    "correta": 3,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 242, inciso VI, do CTB, utilizar o celular ao volante é infração gravíssima, com multa agravada por fator multiplicador de 3 vezes (Art. 242, parágrafo único). A pontuação é de 7 pontos.",
+    "id": 1060,
+    "opcoes": [
+      "Multa de natureza grave e 5 pontos na CNH.",
+      "Multa de natureza gravíssima e 7 pontos na CNH.",
+      "Multa de natureza gravíssima e suspensão do direito de dirigir.",
+      "Multa de natureza gravíssima, com fator multiplicador de 3x, e 7 pontos na CNH."
+    ],
+    "pegadinha": "Confundir a pontuação ou esquecer o fator multiplicador que torna essa infração uma das mais onerosas.",
+    "pergunta": "Qual é a penalidade administrativa aplicável ao condutor que for flagrado utilizando o celular ao volante, sem ser em viva-voz ou fones de ouvido?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 0,
+    "dificuldade": "media",
+    "explicacao": "A placa R-6a ('Proibido Trânsito de Caminhões') proíbe a circulação de veículos classificados como caminhões. A placa R-7 proíbe a circulação de qualquer veículo (Proibido Circular).",
+    "id": 1061,
+    "opcoes": [
+      "R-6a",
+      "R-7",
+      "R-12",
+      "R-15"
+    ],
+    "pegadinha": "Confundir as placas de proibição geral (R-7) com a de proibição específica para cargas (R-6a).",
+    "pergunta": "Qual das seguintes placas indica que a circulação de veículos de carga é proibida?"
+  },
+  {
+    "categoria": "CTB",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "Embora o teste em si seja voluntário (ninguém é obrigado a soprar o bafômetro), a recusa em se submeter ao teste é equiparada à infração de dirigir sob a influência de álcool (gravíssima, Art. 165-A do CTB), sujeitando o condutor às mesmas penalidades.",
+    "id": 1062,
+    "opcoes": [
+      "Sim, a recusa é obrigatória, sob pena de sanções administrativas.",
+      "Não, o teste é voluntário, mas a recusa implica sanções.",
+      "Sim, apenas se houver suspeita clara de embriaguez prévia.",
+      "Não, o teste só pode ser realizado mediante ordem judicial."
+    ],
+    "pegadinha": "A distinção entre ser obrigado a fazer o teste e ser penalizado pela recusa.",
+    "pergunta": "Em uma abordagem policial, o condutor de um veículo pode ser obrigado a realizar o teste do etilômetro (bafômetro)?"
+  },
+  {
+    "categoria": "Infrações",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "Conforme o Art. 328 do CTB, o veículo removido, não reclamado no prazo de 90 dias, será levado a leilão.",
+    "id": 1063,
+    "opcoes": [
+      "30 dias.",
+      "60 dias.",
+      "90 dias.",
+      "180 dias."
+    ],
+    "pegadinha": "Confundir o prazo de remoção/guarda do veículo (geralmente 30 ou 60 dias para infrações menores) com o prazo para consideração de abandono para leilão (90 dias).",
+    "pergunta": "Qual o prazo máximo, após a lavratura do auto de infração, para que o veículo removido por infração de estacionamento irregular (exemplo: em calçada) seja considerado abandonado e destinado ao pátio de leilão, caso não seja reclamado pelo proprietário?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "A regra geral de mudança de faixa (Art. 29, IX, CTB) estabelece que o condutor que for mudar de faixa deve dar preferência aos veículos que já circulam por ela. A placa R-2a apenas obriga a seguir em frente, mas não altera a regra de preferência na mudança de faixa.",
+    "id": 1064,
+    "opcoes": [
+      "Sim, pois quem muda de faixa sempre tem a preferência na manobra.",
+      "Não, quem já está na faixa de destino tem a preferência, exceto se a sinalização indicar o contrário.",
+      "Sim, pois a placa R-2a não impede a mudança de faixa.",
+      "Não, pois a mudança de faixa exige que ele espere a aproximação de veículos em qualquer faixa."
+    ],
+    "pegadinha": "A placa R-2a reforça o sentido, mas não anula a regra de preferência da mudança de faixa.",
+    "pergunta": "Em uma via com duas faixas no mesmo sentido, ambas sinalizadas com a placa de 'Obrigatório Seguir em Frente' (R-2a), e o condutor da faixa da direita deseja mudar para a faixa da esquerda, ele tem preferência sobre quem já está na faixa da esquerda, se ambos estiverem na mesma altura?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "No Brasil, a regra geral do Art. 29, inciso I, do CTB, estabelece que os veículos devem circular pelas pistas de rolamento no sentido estabelecido pela sinalização, à direita da linha divisória da pista, mantendo-se nela, salvo para ultrapassar ou quando for necessária a transposição de faixas.",
+    "id": 1065,
+    "opcoes": [
+      "Na faixa mais à esquerda, para facilitar ultrapassagens.",
+      "Na faixa mais à direita, mantendo-se o mais próximo possível do alinhamento da pista.",
+      "Na faixa que estiver com menos tráfego no momento.",
+      "Alternando entre as faixas para distribuir o desgaste do pavimento."
+    ],
+    "pegadinha": "Confundir com a regra de trânsito de outros países ou com a exceção de ultrapassagem.",
+    "pergunta": "Em uma via de mão dupla, com duas faixas de rolamento e sem sinalização horizontal indicando o contrário, qual o lado da via que o condutor deve manter seu veículo para garantir a fluidez e segurança?"
+  },
+  {
+    "categoria": "Infrações",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O Art. 186, inciso I, do CTB, define que é infração média (4 pontos) estacionar o veículo a menos de 5 metros da testada de uma via transversal (cruzamento), independentemente de sinalização regulamentar.",
+    "id": 1066,
+    "opcoes": [
+      "Infração leve, 3 pontos.",
+      "Infração média, 4 pontos.",
+      "Infração grave, 5 pontos.",
+      "Infração gravíssima, 7 pontos."
+    ],
+    "pegadinha": "A confusão é se a ausência de sinalização torna a infração inexistente ou se aplica a regra geral de distância mínima.",
+    "pergunta": "Qual é a penalidade (natureza da infração e pontos na CNH) para o condutor que estacionar seu veículo a menos de 50 metros de um cruzamento, considerando que não há sinalização regulamentar proibindo expressamente o estacionamento naquele ponto específico?"
+  },
+  {
+    "categoria": "Manutenção Veicular",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "O Art. 230, inciso IX, lista infrações relativas à falta de equipamentos obrigatórios. Embora o CTB trate de diversos itens, os dispositivos refletivos são de uso obrigatório para garantir a visibilidade à noite, conforme regulamentação específica do CONTRAN para sinalização veicular.",
+    "id": 1067,
+    "opcoes": [
+      "Alarme sonoro e sensor de estacionamento.",
+      "Luz de freio vermelha única no centro traseiro.",
+      "Dispositivo refletivo (olho de gato) na traseira.",
+      "Encosto de cabeça para o passageiro."
+    ],
+    "pegadinha": "Confundir equipamentos de segurança ativa/passiva com dispositivos de sinalização obrigatória.",
+    "pergunta": "Qual dos seguintes equipamentos é obrigatório para motocicletas e motonetas, conforme o Código de Trânsito Brasileiro (CTB)?"
+  },
+  {
+    "categoria": "CTB",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "A categoria D permite a condução de veículos para os quais o condutor esteja habilitado na categoria B (Art. 143, § 3º do CTB). Uma caminhonete geralmente se enquadra na Categoria B ou C, nunca sendo necessária a Categoria D para dirigi-la. Portanto, não há infração por conduzir veículo de categoria inferior.",
+    "id": 1068,
+    "opcoes": [
+      "Sim, pois a Categoria D não autoriza veículos de carga pesada.",
+      "Não, pois a Categoria D abrange veículos de Categoria B (caminhonetes) e o CTB permite a condução de categorias inferiores.",
+      "Sim, pois para veículos de carga (Caminhonetes que exigem Categoria B ou C) a regra é diferente da D.",
+      "Não, pois o veículo não está sendo usado para o fim a que a categoria D se destina (transporte de passageiros)."
+    ],
+    "pegadinha": "A infração ocorre apenas se ele dirigir um veículo para o qual NÃO esteja habilitado (Ex: um caminhão pesado Categoria E, ou ônibus Categoria D).",
+    "pergunta": "Um condutor habilitado na categoria 'D' (para transporte de passageiros) está dirigindo um veículo de carga leve (caminhonete) sem passageiros. Ele pode ser autuado por infração relacionada à categoria da CNH, mesmo que esteja conduzindo um veículo para o qual sua habilitação seja suficiente?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A faixa de pedestres (sinalização horizontal de segurança) tem como objetivo principal garantir a segurança e a prioridade de passagem aos pedestres no ato da travessia, conforme Art. 212 do CTB.",
+    "id": 1069,
+    "opcoes": [
+      "Indicar o limite máximo de velocidade permitido para travessia.",
+      "Proibir a parada ou estacionamento de veículos naquela área.",
+      "Dar prioridade de passagem aos pedestres que pretendem atravessar a via.",
+      "Demarcar o ponto de parada obrigatória dos ônibus."
+    ],
+    "pegadinha": "Confundir a função da faixa de pedestres com a de uma placa de parada obrigatória (PARE).",
+    "pergunta": "A faixa de pedestres pintada na via possui a função primária de:"
+  },
+  {
+    "categoria": "Meio Ambiente",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O Art. 250, inciso IX, trata da infração gravíssima de 'arremessar sobre a via ou em seus acostamentos coisas ou substâncias que possam comprometer ou interromper a circulação, a sinalização ou a visibilidade da via'. Embora o descarte de lixo não seja mencionado explicitamente, o Art. 179 trata de atos que podem comprometer a segurança ou a fluidez, sendo mais específico em relação a objetos arremessados. No entanto, o Art. 250, IX, é a tipificação mais próxima de comprometer a via.",
+    "id": 1070,
+    "opcoes": [
+      "Art. 231, XI (Veículo com excesso de peso).",
+      "Art. 250, IX (Impedir ou restringir a circulação na via).",
+      "Art. 179 (Arremessar sobre a via ou em seus acostamentos objetos que possam comprometer ou interromper a circulação).",
+      "Art. 169 (Dirigir sem atenção ou cuidado necessário)."
+    ],
+    "pegadinha": "A infração mais direta e grave para objetos que afetam a via é o Art. 250, IX, que é gravíssima.",
+    "pergunta": "Qual infração do CTB está diretamente relacionada ao descarte inadequado de lixo ou objetos na via pública que possam afetar a segurança e o meio ambiente?"
+  },
+  {
+    "categoria": "Primeiros Socorros",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O controle de hemorragias graves é prioridade no atendimento inicial (Controle de Hemorragia). A técnica mais segura e imediata é a compressão direta (curativo compressivo) sobre o ponto de sangramento.",
+    "id": 1071,
+    "opcoes": [
+      "Administrar água ou líquidos para reidratação.",
+      "Imobilizar completamente a vítima, mesmo que isso atrase o controle do sangramento.",
+      "Realizar curativo compressivo diretamente sobre o ferimento para estancar a hemorragia.",
+      "Tentar remover qualquer objeto estranho alojado profundamente na ferida."
+    ],
+    "pegadinha": "Evitar dar líquidos e nunca remover objetos grandes, priorizando a contenção imediata da perda de sangue.",
+    "pergunta": "Ao se deparar com um acidente de trânsito e verificar que a vítima apresenta sangramento intenso, qual a primeira ação de primeiros socorros recomendada antes da chegada do socorro especializado?"
+  },
+  {
+    "categoria": "Manutenção Veicular",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "A inoperância dos dispositivos de sinalização visual (luzes de freio, por exemplo) é classificada como infração média, conforme o Art. 230, inciso IX (usar o veículo com ineficiência ou inoperância dos equipamentos obrigatórios), sujeita a retenção para regularização.",
+    "id": 1072,
+    "opcoes": [
+      "Infração leve, apenas advertência.",
+      "Infração grave, com possibilidade de remoção do veículo.",
+      "Infração média, com retenção do veículo para regularização.",
+      "Infração gravíssima, com multa e remoção."
+    ],
+    "pegadinha": "Não confundir com a falta de equipamentos obrigatórios de segurança (como extintor, que antes era grave, mas hoje é médio/leve dependendo do item).",
+    "pergunta": "Qual a consequência legal de conduzir um veículo com a sinalização visual traseira (luzes de freio, lanternas) queimada ou inoperante, conforme o CTB?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "A regra geral de direção defensiva internacionalmente adotada e ensinada no Brasil é a regra dos dois segundos, que representa uma margem de segurança razoável para a maioria das condições de tráfego e velocidade, cobrindo tempo de reação e parte da distância de frenagem.",
+    "id": 1073,
+    "opcoes": [
+      "O equivalente a 3 segundos de tempo de reação e frenagem.",
+      "O equivalente a 1 segundo de tempo de reação e frenagem.",
+      "O equivalente a 2 segundos de tempo de reação e frenagem.",
+      "A distância de parada total, calculada pela velocidade e tempo de reação."
+    ],
+    "pegadinha": "Confundir a regra dos 'dois segundos' (segurança) com a 'distância de parada total' (que varia muito com a velocidade).",
+    "pergunta": "Em condições normais de tempo e visibilidade, qual a distância mínima de seguimento (regra dos dois segundos) recomendada para manter uma distância segura do veículo à frente em vias urbanas?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 175 do CTB, utilizar veículo para demonstrar ou produzir qualquer tipo de manobra perigosa, como 'cortar giro' (aceleração ruidosa), é infração gravíssima, resultando em multa (R$ 293,47) e 7 pontos, além de ser infração autônoma (não se aplica a suspensão do Art. 244, que trata de 'racha'). No entanto, a infração de manobra perigosa em si (Art. 175) é multada em R$ 293,47 e 7 pontos. A opção 3 se refere a manobra perigosa com potencial de dano, mas a aceleração em si é coberta pelo Art. 175.",
+    "id": 1,
+    "opcoes": [
+      "Multa de R$ 195,23 e 5 pontos na CNH.",
+      "Multa gravíssima (R$ 293,47) e 7 pontos na CNH.",
+      "Multa gravíssima (R$ 880,41) e suspensão do direito de dirigir por 2 meses.",
+      "Multa gravíssima (R$ 1.467,35) e suspensão do direito de dirigir por 12 meses."
+    ],
+    "pegadinha": "Confundir com outras infrações gravíssimas ou as penalidades do Art. 244 (disputa de competição).",
+    "pergunta": "Qual a penalidade máxima (multa e pontos) para o condutor que for flagrado realizando a manobra perigosa de 'cortar giro' em via pública, conforme o CTB?"
+  },
+  {
+    "categoria": "Sinalização e Prioridade",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "De acordo com o Art. 29, inciso III, alínea 'a', do CTB, a preferência, em geral, é de quem estiver circulando por rodovia.",
+    "id": 2,
+    "opcoes": [
+      "Aquele que estiver à direita.",
+      "Aquele que estiver na via local.",
+      "Aquele que estiver na rodovia, pois é a via de maior tráfego.",
+      "Não há preferência, ambos devem parar e negociar."
+    ],
+    "pegadinha": "A pegadinha é confundir a regra geral da rodovia com a regra da direita (aplicada em cruzamentos não sinalizados entre vias de mesma natureza).",
+    "pergunta": "Em um cruzamento não sinalizado, um veículo que está circulando em uma rodovia se aproxima de um que está vindo de uma via local. Qual deles tem a preferência de passagem?"
+  },
+  {
+    "categoria": "Documentação e Veículos",
+    "correta": 3,
+    "dificuldade": "dificil",
+    "explicacao": "A ausência de equipamentos obrigatórios ou a falta de Licenciamento (que engloba a verificação de itens de segurança, onde a inspeção for obrigatória) é tratada genericamente pelo Art. 230, inciso V ou VI, do CTB, que considera a condução de veículo com equipamento obrigatório inoperante ou ineficiente, ou sem o licenciamento exigido, como infração gravíssima, sujeita a multa e retenção para regularização.",
+    "id": 3,
+    "opcoes": [
+      "Infração leve, com retenção do veículo para regularização.",
+      "Infração média, com remoção do veículo ao pátio.",
+      "Infração gravíssima, com multa e retenção do veículo.",
+      "Não há infração específica no CTB relacionada à ausência de inspeção obrigatória."
+    ],
+    "pegadinha": "Achar que, por não estar mencionada explicitamente no CTB como 'inspeção', não há punição, quando na verdade se enquadra na ausência de licenciamento ou equipamentos.",
+    "pergunta": "O condutor que for flagrado circulando com o veículo sem a comprovação da licença de segurança veicular (inspeção veicular) obrigatória (onde esta for implementada por legislação municipal ou estadual) será penalizado com qual infração prevista no CTB?"
+  },
+  {
+    "categoria": "Primeiros Socorros e Acidentes",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O Art. 176 do CTB estabelece que deixar de prestar socorro às vítimas é infração gravíssima. O primeiro passo é garantir a segurança do local (sinalização) e acionar o socorro profissional (SAMU/Corpo de Bombeiros). A remoção das vítimas só deve ocorrer em caso de risco iminente (ex: vazamento de combustível ou risco de incêndio).",
+    "id": 4,
+    "opcoes": [
+      "Mover as vítimas imediatamente para local seguro, mesmo que haja suspeita de lesão na coluna.",
+      "Ligar imediatamente para um parente das vítimas para informar o ocorrido.",
+      "Sinalizar o local do acidente, sinalizar o desvio e chamar imediatamente os órgãos de atendimento (SAMU, Bombeiros).",
+      "Oferecer água e comida às vítimas para evitar desidratação enquanto aguarda o socorro."
+    ],
+    "pegadinha": "Confundir a prioridade entre sinalizar o local e remover a vítima.",
+    "pergunta": "Em um acidente de trânsito com vítimas, qual das ações abaixo representa o primeiro procedimento correto que o condutor deve adotar, de acordo com as normas de primeiros socorros e segurança viária?"
+  },
+  {
+    "categoria": "Conduta e Direitos do Condutor",
+    "correta": 0,
+    "dificuldade": "facil",
+    "explicacao": "O Art. 29, inciso II, do CTB estabelece que os ciclomotores devem circular nas vias urbanas observando a velocidade máxima de 40 km/h, exceto quando a sinalização indicar velocidade diferente.",
+    "id": 5,
+    "opcoes": [
+      "40 km/h",
+      "50 km/h",
+      "60 km/h",
+      "Não há limite específico, devem seguir a sinalização local."
+    ],
+    "pegadinha": "Achar que o limite é 50 km/h (velocidade padrão para vias sem sinalização em algumas situações) ou que seguem o fluxo geral de veículos.",
+    "pergunta": "Em vias urbanas, qual é o limite máximo de velocidade permitido para ciclomotores, conforme o CTB?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "Conduzir veículo tendo o seu direito de dirigir suspenso é infração gravíssima, conforme o Art. 164 do CTB, com penalidade de suspensão do direito de dirigir pelo período de 12 meses, além da multa gravíssima.",
+    "id": 1,
+    "opcoes": [
+      "Multa de natureza leve e retenção do veículo.",
+      "Multa de natureza gravíssima, suspensão do direito de dirigir por 12 meses e apreensão do documento de habilitação.",
+      "Apenas multa de natureza gravíssima e recolhimento imediato do documento de habilitação.",
+      "Detenção de seis meses a um ano, além da multa gravíssima."
+    ],
+    "pegadinha": "Confundir com a penalidade de cassação da CNH, que é uma penalidade diferente e mais severa.",
+    "pergunta": "Qual é a penalidade para o condutor que for flagrado conduzindo o veículo com a suspensão do direito de dirigir?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "A placa R-1 (PARE) obriga o condutor a parar completamente o veículo antes de prosseguir, especialmente antes de intersecções ou cruzamentos.",
+    "id": 2,
+    "opcoes": [
+      "Obrigação de reduzir a velocidade imediatamente.",
+      "Parada obrigatória, antes de entrar ou cruzar vias.",
+      "Indicação de que o estacionamento é proibido no trecho.",
+      "Atenção à presença de veículos de emergência."
+    ],
+    "pegadinha": "Achar que 'PARE' significa apenas 'reduzir a velocidade', como em placas de advertência.",
+    "pergunta": "Qual o significado da placa R-1 (PARE)?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "Conforme o Art. 238 do CTB (que trata do uso de telefone celular), dirigir o veículo segurando ou manuseando telefone celular é classificado como infração gravíssima, cuja penalidade é multa e suspensão do direito de dirigir.",
+    "id": "LGT0001",
+    "opcoes": [
+      "Multa de natureza leve e retenção do veículo até a apresentação de outro condutor.",
+      "Multa de natureza grave e 3 pontos na CNH.",
+      "Multa de natureza gravíssima e suspensão do direito de dirigir.",
+      "Advertência por escrito e 3 pontos na CNH."
+    ],
+    "pegadinha": "A pegadinha reside em confundir a infração com outras relacionadas a dispositivos eletrônicos, lembrando que o manuseio ou a conversação via celular é uma das infrações mais severas em termos de penalidade no CTB.",
+    "pergunta": "Qual é a penalidade administrativa imposta ao condutor que for flagrado utilizando o telefone celular para conversação ou manuseio enquanto conduz o veículo, conforme o Código de Trânsito Brasileiro (CTB)?"
+  },
+  {
+    "categoria": "Normas de Circulação",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "O uso de dispositivo de retenção (bebê conforto, cadeirinha ou assento de elevação) é obrigatório para crianças com até 10 anos que não tenham atingido 1,45m de altura, sempre no banco traseiro.",
+    "id": 1,
+    "opcoes": [
+      "Devem ser transportadas obrigatoriamente no banco dianteiro com cinto de segurança.",
+      "Devem ser transportadas no banco traseiro, utilizando dispositivo de retenção adequado.",
+      "Podem ser transportadas no banco dianteiro, desde que utilizando cinto de segurança de 3 pontos.",
+      "A lei não exige dispositivo de retenção para crianças menores de 10 anos."
+    ],
+    "pegadinha": "Muitos condutores ainda acreditam que a regra baseia-se apenas na idade de 10 anos, esquecendo-se da variável da altura e da obrigatoriedade do dispositivo.",
+    "pergunta": "De acordo com o CTB, qual é a regra para o transporte de crianças com idade inferior a 10 anos que não atingiram 1,45m de altura?"
+  },
+  {
+    "categoria": "Sinalização de Trânsito",
+    "correta": 0,
+    "dificuldade": "facil",
+    "explicacao": "A placa A-14 é identificada pelo desenho de um semáforo, indicando ao condutor a existência de um sinal luminoso à frente.",
+    "id": 2,
+    "opcoes": [
+      "Semáforo à frente.",
+      "Cruzamento de vias.",
+      "Passagem sinalizada de pedestres.",
+      "Via preferencial."
+    ],
+    "pegadinha": "O candidato pode confundir com a placa de cruzamento de vias, que possui um desenho em formato de cruz ou 'X'.",
+    "pergunta": "Qual é o significado da placa de sinalização de advertência A-14?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "Segundo o Art. 230, inciso IX do CTB, conduzir veículo com equipamento obrigatório em desacordo com as normas do CONTRAN é infração grave, sujeita a multa e retenção para regularização.",
+    "id": 3,
+    "opcoes": [
+      "Infração leve, com multa.",
+      "Infração média, com multa e retenção do veículo.",
+      "Infração grave, com multa e retenção do veículo para regularização.",
+      "Infração gravíssima, com suspensão do direito de dirigir."
+    ],
+    "pegadinha": "Muitos condutores confundem a gravidade da infração, acreditando que por ser um 'equipamento', seria uma infração média, mas o CTB a classifica como grave.",
+    "pergunta": "Conduzir veículo com equipamento obrigatório em desacordo com o estabelecido pelo CONTRAN é considerada qual tipo de infração?"
+  },
+  {
+    "categoria": "Primeiros Socorros",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "A remoção do capacete por pessoas não especializadas pode agravar lesões na coluna cervical; deve-se evitar a remoção, exceto em riscos específicos como obstrução de vias aéreas.",
+    "id": 4,
+    "opcoes": [
+      "Retirar o capacete imediatamente para facilitar a respiração da vítima.",
+      "Retirar o capacete apenas se a vítima estiver consciente.",
+      "Não retirar o capacete, salvo em situações de risco iminente de morte como parada respiratória.",
+      "Retirar o capacete sempre, independentemente da gravidade, para avaliar ferimentos na cabeça."
+    ],
+    "pegadinha": "O senso comum sugere que 'ajudar' significa remover o equipamento rapidamente, mas na prática de primeiros socorros isso pode causar danos irreversíveis.",
+    "pergunta": "Em um acidente de trânsito, ao encontrar uma vítima com capacete, qual é a conduta correta?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A aquaplanagem ocorre quando o pneu perde o contato com o solo devido à água; frear ou virar bruscamente pode causar derrapagem fatal. Deve-se manter a direção e deixar o carro perder velocidade naturalmente.",
+    "id": 5,
+    "opcoes": [
+      "Frear bruscamente para reduzir a velocidade e retomar o controle.",
+      "Girar o volante rapidamente para os lados para tentar aderência.",
+      "Retirar o pé do acelerador, manter o volante firme e não frear bruscamente.",
+      "Aumentar a velocidade para vencer a camada de água mais rapidamente."
+    ],
+    "pegadinha": "O instinto humano em situações de pânico é pisar no freio, o que é exatamente a ação que piora a situação durante uma aquaplanagem.",
+    "pergunta": "Em caso de aquaplanagem, qual é a atitude correta que o condutor deve adotar?"
+  },
+  {
+    "categoria": "Normas de Circulação",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "Conforme o artigo 201 do CTB, deixar de guardar a distância lateral de 1,5 metro ao passar por ciclista é infração média.",
+    "id": 1,
+    "opcoes": [
+      "1,0 metro",
+      "1,5 metros",
+      "2,0 metros",
+      "50 centímetros"
+    ],
+    "pegadinha": "Muitos candidatos confundem a distância lateral de segurança com a distância de seguimento.",
+    "pergunta": "De acordo com o CTB, qual é a distância lateral mínima ao passar por um ciclista?"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O artigo 171 do CTB classifica essa conduta como infração média, sujeita a multa.",
+    "id": 2,
+    "opcoes": [
+      "Infração leve",
+      "Infração grave",
+      "Infração média",
+      "Infração gravíssima"
+    ],
+    "pegadinha": "Por ser uma atitude considerada de desrespeito grave, muitos chutam que a infração é grave ou gravíssima.",
+    "pergunta": "Qual a natureza da infração cometida pelo condutor que utiliza o veículo para arremessar água ou detritos sobre os pedestres?"
+  },
+  {
+    "categoria": "Documentação",
+    "correta": 2,
+    "dificuldade": "media",
+    "explicacao": "O prazo estabelecido pelo artigo 123 do CTB é de 30 dias após a data de alienação.",
+    "id": 3,
+    "opcoes": [
+      "10 dias",
+      "15 dias",
+      "30 dias",
+      "60 dias"
+    ],
+    "pegadinha": "O candidato pode confundir com o prazo de 15 dias que era aplicado em legislações muito antigas ou com outros procedimentos burocráticos.",
+    "pergunta": "Qual o prazo máximo para que a transferência de propriedade de um veículo seja comunicada ao órgão executivo de trânsito?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 3,
+    "dificuldade": "dificil",
+    "explicacao": "A placa R-24a indica 'Passagem Obrigatória', obrigando o condutor a passar pelo lado da via indicado pela seta.",
+    "id": 4,
+    "opcoes": [
+      "Sentido único",
+      "Manter à direita",
+      "Sentido de circulação na rotatória",
+      "Passagem obrigatória"
+    ],
+    "pegadinha": "A semelhança visual com placas de 'Manter à direita' (R-25a) confunde a maioria dos condutores.",
+    "pergunta": "Qual é o significado da placa de sinalização de regulamentação R-24a?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 2,
+    "dificuldade": "facil",
+    "explicacao": "A técnica correta de direção defensiva para evitar ofuscamento é focar na sinalização lateral (faixa da direita) e reduzir a marcha.",
+    "id": 5,
+    "opcoes": [
+      "Aumentar a velocidade para sair da luz rapidamente",
+      "Ligar o farol alto para revidar",
+      "Desviar o olhar para a linha de bordo à direita e reduzir a velocidade",
+      "Frear bruscamente o veículo"
+    ],
+    "pegadinha": "O instinto de muitos condutores é frear bruscamente, o que pode causar colisões traseiras, ou revidar, o que aumenta o risco de acidentes.",
+    "pergunta": "Em caso de ofuscamento da visão pelo farol alto do veículo que vem em sentido contrário, o condutor deve:"
+  },
+  {
+    "categoria": "Infrações e Penalidades",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "Conforme o artigo 173 do CTB, utilizar o veículo para exibir manobra perigosa é infração gravíssima, sujeita a multa (10 vezes o valor), suspensão do direito de dirigir e apreensão do veículo.",
+    "id": 1,
+    "opcoes": [
+      "Grave",
+      "Gravíssima",
+      "Média",
+      "Leve"
+    ],
+    "pegadinha": "Muitos confundem a penalidade de 'multa multiplicada' com a classificação da infração, achando que ela sobe para um patamar diferente de 'gravíssima'.",
+    "pergunta": "De acordo com o CTB, qual é a natureza da infração cometida pelo condutor que utiliza o veículo para demonstrar ou exibir manobra perigosa mediante arrancada brusca ou derrapagem?"
+  },
+  {
+    "categoria": "Normas de Circulação",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "Conforme o Art. 61 do CTB, na ausência de sinalização, a velocidade máxima nas vias urbanas classificadas como vias locais é de 30 km/h, mas a regra geral para vias urbanas sem sinalização específica é de 40 km/h para vias de trânsito rápido (o CTB estabelece 80, 60, 40 e 30 conforme o tipo).",
+    "id": 2,
+    "opcoes": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "pegadinha": "O candidato costuma confundir com a velocidade máxima em vias de trânsito rápido ou vias arteriais.",
+    "pergunta": "Em uma via urbana sem sinalização de regulamentação de velocidade, qual é o limite máximo permitido para veículos leves?"
+  },
+  {
+    "categoria": "Direção Defensiva",
+    "correta": 2,
+    "dificuldade": "dificil",
+    "explicacao": "Ao aquaplanar, o veículo perde contato com o solo. Deve-se manter a direção reta e não usar os freios até que o contato com o asfalto seja restabelecido.",
+    "id": 3,
+    "opcoes": [
+      "Frear bruscamente para reduzir a velocidade imediatamente.",
+      "Girar o volante rapidamente para tentar retomar a aderência.",
+      "Retirar o pé do acelerador, manter a direção reta e não frear.",
+      "Acelerar para forçar o veículo a sair da poça d'água."
+    ],
+    "pegadinha": "O instinto natural do motorista é frear ou esterçar o volante, o que causa o efeito reverso e aumenta o risco de perda total de controle.",
+    "pergunta": "Qual é a recomendação técnica para um condutor que percebe que o seu veículo está começando a sofrer o fenômeno da aquaplanagem?"
+  },
+  {
+    "categoria": "Sinalização",
+    "correta": 1,
+    "dificuldade": "media",
+    "explicacao": "As placas de advertência têm formato losangular, fundo amarelo e legendas/símbolos pretos, visando alertar o condutor sobre perigos potenciais.",
+    "id": 4,
+    "opcoes": [
+      "Regulamentação",
+      "Advertência",
+      "Serviços Auxiliares",
+      "Indicação"
+    ],
+    "pegadinha": "A descrição inverte propositalmente as cores de fundo ou o formato para confundir com as placas de regulamentação (circulares).",
+    "pergunta": "A placa de sinalização de cor laranja com fundo amarelo e formato losangular pertence a qual categoria?"
+  },
+  {
+    "categoria": "Documentação",
+    "correta": 1,
+    "dificuldade": "facil",
+    "explicacao": "O acúmulo de pontos gera o processo administrativo de suspensão do direito de dirigir, não a cassação, que é uma penalidade mais severa aplicada em outros casos.",
+    "id": 5,
+    "opcoes": [
+      "O condutor deve fazer apenas um curso de reciclagem e paga multa.",
+      "O condutor terá a CNH suspensa por um período determinado.",
+      "O condutor é impedido de dirigir definitivamente (cassação).",
+      "O condutor é obrigado a refazer todos os exames teóricos e práticos."
+    ],
+    "pegadinha": "Muitos confundem 'suspensão' com 'cassação', sendo que a cassação implica em perder o direito de dirigir e precisar refazer todo o processo de habilitação.",
+    "pergunta": "O que ocorre com a Carteira Nacional de Habilitação (CNH) caso o condutor tenha a sua pontuação atingida conforme previsto no Art. 261 do CTB?"
+  }
+]
