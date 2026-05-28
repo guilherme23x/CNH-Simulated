@@ -27,6 +27,7 @@ CNH-Simulated/
 ├── json/               # Local JSON question bank (perguntas.json)
 ├── logic/              # Business logic and background threads (Gemini API worker)
 ├── ui/                 # UI components (pages, custom widgets, animations)
+├── build.sh            # build program for linux (Ubuntu/Debian)
 ├── main.py             # Main entry point for the PySide6 application
 ├── pyproject.toml      # Project metadata and dependencies
 └── README.md           # Project documentation
@@ -44,7 +45,7 @@ This project uses uv as its fast Python package manager and resolver.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/cnh-simulated.git
+   git clone https://github.com/guilherme23x/CNH-Simulated.git
    cd cnh-simulated
    ```
 
